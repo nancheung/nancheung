@@ -4,9 +4,9 @@
 
 我喜欢一切使人兴奋而又有趣的东西，希望我也能成为我喜欢的。
 
-- 🔭 我目前正在进行Git Proxy及Mybatis Plus 、HuTool等工具的开源工作
+- 🔭 我目前正在进行Rhyon及Mybatis Plus等工具的开源工作
 - 🌱 我目前正在学习：☕Java 🐍Python 🦀Rust ☸️Domain-Driven Design 以及一切 🤣
-- 🥅 2022 年目标：为开源项目做出更多贡献
+- 🥅 2025 年目标：为开源项目做出更多贡献
 - ⚡ 有趣的事实：我会客制化键盘，还是一个摄影者，享受审美带来的宁静，同时热爱摇滚、滑雪让我热血的事物。
 - 💬 如果有问题，请随意与我交流。
 
@@ -20,13 +20,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nancheung&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&locale=cn">
 
 ### 📢 语言与框架
-[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=007396&labelColor=fff)](#)
-[![Spring](https://img.shields.io/badge/-Spring-black?style=flat&logo=spring&logoColor=6DB33F&labelColor=fff)](#)
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=Spring-Boot&logoColor=6DB33F&labelColor=fff)](#)
-[![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-black?style=flat&logo=Google%20Cloud&logoColor=6DB33F&labelColor=fff)](#)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=coffeescript&logoColor=007396&labelColor=ffffff)](#)
+[![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-black?style=flat&logo=Google%20Cloud&logoColor=6DB33F&labelColor=ffffff)](#)
+[![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&logoColor=000000&labelColor=ffffff)](#)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=3776AB&labelColor=ffffff)](#)
 
 ### 😇 中间件
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&labelColor=fff)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&labelColor=ffffff)](#)
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=Redis&labelColor=fff)](#)
 [![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat&logo=Apache%20Kafka&logoColor=231F20&labelColor=fff)](#)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat&logo=RabbitMQ&labelColor=fff)](#)
