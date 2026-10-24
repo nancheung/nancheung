@@ -4,29 +4,24 @@ on:
   push:
   schedule:
     - cron: '1 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  stale:
-      runs-on: ubuntu-latest
-      strategy:
-        matrix:
-          # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
-          python-version: ['3.7.4']
-      steps:
-      - uses: actions/checkout@v2 # Checking out the repo
-      - name: Install dependecies
-        uses: VaultVulp/action-pipenv@v2.0.1
-        with:
-          command: install -d # Install all dependencies, including development ones
-      - name: Build
-        uses: VaultVulp/action-pipenv@v2.0.1
-        with:
-          command: run build
-      - name: Commit and push if changed   # 更新README.md
-        run: |
-          git diff
-          git config --global user.email "i@nancheung.com"
-          git config --global user.name "NanCheung"
-          git add README.md
-          git commit -m "Github Action Auto Updated"
-          git push
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v5 # Checking out the repo
+    - name: Build   # 只用标准库，直接用 runner 自带的 Python 3
+      run: python3 main.py
+    - name: Commit and push if changed   # 更新README.md
+      run: |
+        git diff
+        git config --global user.email "i@nancheung.com"
+        git config --global user.name "NanCheung"
+        git add README.md
+        git diff --cached --quiet && echo "README 无变化，跳过提交" && exit 0
+        git commit -m "Github Action Auto Updated"
+        git push
