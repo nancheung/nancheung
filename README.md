@@ -7,7 +7,7 @@
 
 - 🤖 我目前正在从零手搓 AI Harness（Agent 内核）
 - 🔬 喜欢啃 Claude Code、DeepSeek Harness 这类 Agent 的源码
-- ⚡ <!-- vibe:start -->Vibe 时长两年半（实际 4 年 9 个月 23 天，已超额练习）<!-- vibe:end -->
+- ⚡ <!-- vibe:start -->Vibe 时长两年半（实际 4 年 9 个月 24 天，已超额练习）<!-- vibe:end -->
 - 🎸 有趣的事实：我会客制化键盘，还是一个摄影者，享受审美带来的宁静，同时热爱摇滚、滑雪、陆冲这些让我热血的事物。
 - 💬 如果有问题，请随意与我交流。
 
@@ -23,7 +23,7 @@
 [![Blog](https://img.shields.io/badge/NanCheung`s%20blog-FF5722?style=flat&logo=Blogger&logoColor=white)](https://blog.nancheung.com)
 [![Zhihu](https://img.shields.io/badge/知乎-0084FF?style=flat&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/nancheung97)
 
-## <!-- date:start -->😄2026-10-24😄<!-- date:end -->
+## <!-- date:start -->😄2026-10-25😄<!-- date:end -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nancheung&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&locale=cn">
 
